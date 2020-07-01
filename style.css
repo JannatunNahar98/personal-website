@@ -25,6 +25,7 @@ p{
     border-radius: 5px;
     color: white;
     font-weight: 700px;
+    
   
 }
 .header-bg{
@@ -72,6 +73,7 @@ section{
 #quote{
     color: black;
     text-align: center;
+    font-weight: 550;
 }
 .clients{
     background-image: url(images/footer-bg.png);
